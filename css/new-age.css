@@ -433,7 +433,7 @@ footer ul li a.active {
   background: #222222;
 }
 ::selection {
-  color: white;
+  color: green;
   text-shadow: none;
   background: #222222;
 }
